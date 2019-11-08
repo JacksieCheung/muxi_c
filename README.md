@@ -1,2 +1,3 @@
-***welcome to my c reportisy***
+#C repository
+***welcome to my c repository***
 
