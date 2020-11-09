@@ -1,0 +1,4 @@
+2.c: In function 'int main()':
+2.c:4:10: warning: unused variable 'L' [-Wunused-variable]
+  SqList* L = SqListInit();
+          ^
