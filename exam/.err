@@ -1,0 +1,4 @@
+1.c: In function 'int main()':
+1.c:42:12: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  char* c = "/12";
+            ^~~~~
